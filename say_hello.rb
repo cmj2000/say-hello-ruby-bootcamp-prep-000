@@ -1,5 +1,5 @@
 # Build your say_hello method here
 
-def say_hello(phrase = "Hello", name = "Ruby Programmer")
-  puts(phrase+ " " + name + "!")
+def say_hello name = "Ruby Programmer")
+  puts("Hello" + name + "!")
 end
